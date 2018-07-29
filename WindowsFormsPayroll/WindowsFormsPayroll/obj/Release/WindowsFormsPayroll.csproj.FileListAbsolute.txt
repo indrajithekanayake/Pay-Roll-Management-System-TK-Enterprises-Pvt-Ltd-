@@ -1,0 +1,67 @@
+C:\Users\ISURU\documents\visual studio 2015\Projects\WindowsFormsPayroll\WindowsFormsPayroll\bin\Release\WindowsFormsPayroll.exe.config
+C:\Users\ISURU\documents\visual studio 2015\Projects\WindowsFormsPayroll\WindowsFormsPayroll\bin\Release\WindowsFormsPayroll.exe
+C:\Users\ISURU\documents\visual studio 2015\Projects\WindowsFormsPayroll\WindowsFormsPayroll\bin\Release\WindowsFormsPayroll.pdb
+C:\Users\ISURU\documents\visual studio 2015\Projects\WindowsFormsPayroll\WindowsFormsPayroll\bin\Release\MySql.Data.dll
+C:\Users\ISURU\documents\visual studio 2015\Projects\WindowsFormsPayroll\WindowsFormsPayroll\bin\Release\Google.Protobuf.dll
+C:\Users\ISURU\documents\visual studio 2015\Projects\WindowsFormsPayroll\WindowsFormsPayroll\bin\Release\MySql.Data.xml
+C:\Users\ISURU\documents\visual studio 2015\Projects\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.csprojResolveAssemblyReference.cache
+C:\Users\ISURU\documents\visual studio 2015\Projects\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Account.resources
+C:\Users\ISURU\documents\visual studio 2015\Projects\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Attendance.resources
+C:\Users\ISURU\documents\visual studio 2015\Projects\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Budget.resources
+C:\Users\ISURU\documents\visual studio 2015\Projects\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Drivers.resources
+C:\Users\ISURU\documents\visual studio 2015\Projects\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.EmployerDet.resources
+C:\Users\ISURU\documents\visual studio 2015\Projects\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Final.resources
+C:\Users\ISURU\documents\visual studio 2015\Projects\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Home.resources
+C:\Users\ISURU\documents\visual studio 2015\Projects\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Loan.resources
+C:\Users\ISURU\documents\visual studio 2015\Projects\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Lobor.resources
+C:\Users\ISURU\documents\visual studio 2015\Projects\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Login.resources
+C:\Users\ISURU\documents\visual studio 2015\Projects\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.NewEmployee.resources
+C:\Users\ISURU\documents\visual studio 2015\Projects\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Properties.Resources.resources
+C:\Users\ISURU\documents\visual studio 2015\Projects\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.SignUp.resources
+C:\Users\ISURU\documents\visual studio 2015\Projects\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.csproj.GenerateResource.Cache
+C:\Users\ISURU\documents\visual studio 2015\Projects\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.exe
+C:\Users\ISURU\documents\visual studio 2015\Projects\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.pdb
+C:\Users\USER\Desktop\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\bin\Release\WindowsFormsPayroll.exe.config
+C:\Users\USER\Desktop\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.exe
+C:\Users\USER\Desktop\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.pdb
+C:\Users\USER\Desktop\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\bin\Release\WindowsFormsPayroll.exe
+C:\Users\USER\Desktop\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\bin\Release\WindowsFormsPayroll.pdb
+C:\Users\USER\Desktop\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\bin\Release\Google.Protobuf.dll
+C:\Users\USER\Desktop\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\bin\Release\MySql.Data.xml
+C:\Users\USER\Desktop\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Account.resources
+C:\Users\USER\Desktop\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Attendance.resources
+C:\Users\USER\Desktop\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Budget.resources
+C:\Users\USER\Desktop\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Drivers.resources
+C:\Users\USER\Desktop\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.EmployerDet.resources
+C:\Users\USER\Desktop\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Final.resources
+C:\Users\USER\Desktop\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Home.resources
+C:\Users\USER\Desktop\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Loan.resources
+C:\Users\USER\Desktop\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Lobor.resources
+C:\Users\USER\Desktop\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Login.resources
+C:\Users\USER\Desktop\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.NewEmployee.resources
+C:\Users\USER\Desktop\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Properties.Resources.resources
+C:\Users\USER\Desktop\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.SignUp.resources
+C:\Users\USER\Desktop\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.csproj.GenerateResource.Cache
+F:\year 01\SEM3\UNI\projects\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\bin\Release\WindowsFormsPayroll.exe.config
+F:\year 01\SEM3\UNI\projects\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.exe
+F:\year 01\SEM3\UNI\projects\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.pdb
+F:\year 01\SEM3\UNI\projects\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\bin\Release\WindowsFormsPayroll.exe
+F:\year 01\SEM3\UNI\projects\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\bin\Release\WindowsFormsPayroll.pdb
+F:\year 01\SEM3\UNI\projects\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\bin\Release\Google.Protobuf.dll
+F:\year 01\SEM3\UNI\projects\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\bin\Release\MySql.Data.xml
+F:\year 01\SEM3\UNI\projects\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.csprojResolveAssemblyReference.cache
+F:\year 01\SEM3\UNI\projects\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Account.resources
+F:\year 01\SEM3\UNI\projects\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Attendance.resources
+F:\year 01\SEM3\UNI\projects\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Budget.resources
+F:\year 01\SEM3\UNI\projects\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Drivers.resources
+F:\year 01\SEM3\UNI\projects\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.EmployerDet.resources
+F:\year 01\SEM3\UNI\projects\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Final.resources
+F:\year 01\SEM3\UNI\projects\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Home.resources
+F:\year 01\SEM3\UNI\projects\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Loan.resources
+F:\year 01\SEM3\UNI\projects\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Lobor.resources
+F:\year 01\SEM3\UNI\projects\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Login.resources
+F:\year 01\SEM3\UNI\projects\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.NewEmployee.resources
+F:\year 01\SEM3\UNI\projects\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.Properties.Resources.resources
+F:\year 01\SEM3\UNI\projects\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.SignUp.resources
+F:\year 01\SEM3\UNI\projects\Project C#\WindowsFormsPayroll\WindowsFormsPayroll\obj\Release\WindowsFormsPayroll.csproj.GenerateResource.Cache

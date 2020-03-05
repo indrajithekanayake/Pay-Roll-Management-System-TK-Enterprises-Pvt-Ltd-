@@ -4,4 +4,4 @@
 # Pay-Roll-Management-System-(TK-Enterprises-pvt-ltd)
 Completed project with Applying SDLC steps.(System Development Life Cycle)
 
-# Give us a star if this usefull :star:  :star:  :star:  
+# Give a star if this usefull :star:  :star:  :star:  
